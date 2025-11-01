@@ -1,24 +1,22 @@
-Project Overview
-This repository contains a dynamic Sales Operations analytics report for ABC Inc., built using Looker Studio. The project showcases robust data integration, transformation, and visualization to empower fast, actionable insights on sales, deal sizes, product lines, and operational trends for ABC Inc.​
+🚀 Project Overview
 
-Key Data Engineering Enhancements
-Table Integration: Added and joined two tables using a left join, enabling enriched and comprehensive analysis across multiple sales dimensions.​
+This repository hosts a dynamic Sales Operations analytics report for ABC Inc., built using Looker Studio. It demonstrates powerful data integration, transformation, and visualization to deliver fast, actionable insights on sales performance, deal sizes, product lines, and operational trends for ABC Inc. 📊✨
 
-Data Transformation: Applied data type changes to normalize and align fields for seamless reporting and advanced aggregation.​
+🔧 Key Data Engineering Enhancements
 
-Report Highlights
-Sales Trends: Visualizes sales by year (2003–2005) and product lines, spotlighting top performers like Classic Cars and Vintage Cars.​
+Table Integration: Merged two tables with a left join, enabling a richer and more comprehensive analysis across multiple sales dimensions. 🔗
 
-Product Line Analysis: Breaks down 2005 sales by product line: Classic Cars, Vintage Cars, Motorcycles, Planes, Trucks/Buses, Ships, Trains.​
+Data Transformation: Normalized and aligned fields by updating data types for seamless reporting and advanced aggregations. ⚡
 
-Deal Size Insights: Compares deal counts and sales by deal size (Large, Medium, Small), revealing contributions to total sales and quantity ordered.​
+📈 Report Highlights
 
-Seasonality: Tracks monthly sales activity, supporting strategic decision-making for inventory and marketing.​
+Sales Trends: Visualizes yearly sales (2003–2005) by product lines, highlighting top performers like Classic Cars and Vintage Cars. 🚗🏆
 
-Order Status: Summarizes unshipped order statuses (Cancelled, Resolved, On Hold, In Process, Disputed) for efficient follow-up.​
+Product Line Analysis: Breaks down 2005 sales across Classic Cars, Vintage Cars, Motorcycles, Planes, Trucks/Buses, Ships, and Trains. 🛵✈️🚢🚂
 
-Key Metrics (2025):
+Deal Size Insights: Compares deal counts and sales by Large, Medium, and Small deals, showing their contributions to total sales and quantities ordered. 💰📊
 
-Max Quantity Ordered: 97
+Seasonality: Tracks monthly sales activity to support strategic decisions on inventory and marketing. 📆🌦️
 
-Year-to-Date Sales: $1.79M
+Order Status: Summarizes unshipped orders (Cancelled, Resolved, On Hold, In Process, Disputed) for efficient follow-up. ⚠️📦
+
