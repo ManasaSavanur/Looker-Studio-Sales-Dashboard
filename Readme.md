@@ -20,3 +20,6 @@ Seasonality: Tracks monthly sales activity to support strategic decisions on inv
 
 Order Status: Summarizes unshipped orders (Cancelled, Resolved, On Hold, In Process, Disputed) for efficient follow-up. ⚠️
 
+Sample - 
+<img width="1183" height="295" alt="image" src="https://github.com/user-attachments/assets/4a226f0b-05fe-4298-91d6-5aa293ce541c" />
+
